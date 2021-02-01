@@ -1,0 +1,1717 @@
+--------- beginning of /dev/log/main
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 6126): Device driver API match
+E/        ( 6126): Device driver API version: 23
+E/        ( 6126): User space API version: 23 
+E/        ( 6126): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/rsC++   ( 2637): RS Message thread exiting.
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/dalvikvm( 6870): Could not find class 'cux', referenced from method cug.a
+E/dalvikvm( 6870): Could not find class 'com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain', referenced from method aeiu.b
+E/dalvikvm( 6870): Could not find class 'android.content.pm.PackageInstaller', referenced from method aacr.b
+E/dalvikvm( 6870): Could not find class 'android.content.pm.PackageInstaller', referenced from method afds.b
+E/dalvikvm( 6870): Could not find class 'android.content.pm.PackageInstaller', referenced from method afdr.b
+E/dalvikvm( 6870): Could not find class 'android.app.usage.NetworkStatsManager', referenced from method fmm.b
+E/dalvikvm( 6870): Could not find class 'android.app.usage.NetworkStatsManager', referenced from method krf.b
+E/dalvikvm( 6870): Could not find class 'android.app.usage.UsageStatsManager', referenced from method fmw.b
+E/dalvikvm( 6870): Could not find class 'android.app.NotificationChannelGroup', referenced from method adhr.h
+E/dalvikvm( 6870): Could not find class 'android.app.job.JobScheduler', referenced from method aedg.a
+E/dalvikvm( 6870): Could not find class 'android.app.job.JobScheduler', referenced from method aedg.a
+E/dalvikvm( 6870): Could not find class 'bjep', referenced from method bjet.<init>
+E/dalvikvm( 6870): Could not find class 'bjeh', referenced from method bjet.<init>
+E/dalvikvm( 6870): Could not find class 'bjej', referenced from method bjet.<init>
+E/dalvikvm( 6870): Could not find class 'android.net.ProxyInfo', referenced from method org.chromium.net.ProxyChangeListener.a
+E/dalvikvm( 6870): Could not find class 'android.content.RestrictionsManager', referenced from method mnb.f
+E/dalvikvm( 6870): Could not find class 'absa', referenced from method abtf.t
+E/dalvikvm( 6870): Could not find class 'android.content.RestrictionsManager', referenced from method aoak.<init>
+E/dalvikvm( 6870): Could not find class 'android.app.NotificationChannel', referenced from method yba.az
+E/dalvikvm( 6870): Could not find class 'android.app.usage.UsageStatsManager', referenced from method rhv.b
+E/dalvikvm( 6870): Could not find class 'android.app.usage.UsageStats', referenced from method rhv.b
+E/dalvikvm( 6870): Could not find class 'org.conscrypt.TrustManagerImpl', referenced from method org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 6870): Could not find class 'org.conscrypt.TrustManagerImpl', referenced from method org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 6870): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm( 6870): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+E/SELinux ( 7009): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux ( 7009): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/dalvikvm( 6870): Could not find class 'javax.net.ssl.SNIServerName', referenced from method org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 6870): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 6870): Could not find class 'javax.net.ssl.SNIHostName', referenced from method org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 6870): Could not find class 'javax.net.ssl.SNIHostName', referenced from method org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 6870): Could not find class 'org.conscrypt.Java8ExtendedSSLSession', referenced from method org.conscrypt.Platform.wrapSSLSession
+E/dalvikvm( 7023): Could not find class 'com.google.android.finsky.scheduler.process.downloadserviceimpl.PhoneskyJobServiceDownloadService', referenced from method aeis.b
+E/dalvikvm( 7023): Could not find class 'android.app.NotificationChannel', referenced from method njz.a
+E/dalvikvm( 7023): Could not find class 'nkk', referenced from method nkl.a
+E/dalvikvm( 7023): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm( 7023): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+F/Finsky:download_service( 7023): [277] njp.f(3): Service object is not present when stopServiceSafely was called.
+F/Finsky:download_service( 7023): com.google.android.flib.log.WhatATerribleException
+F/Finsky:download_service( 7023): 	at aqdi.h(PG:2)
+F/Finsky:download_service( 7023): 	at com.google.android.finsky.utils.FinskyLog.g(PG:3)
+F/Finsky:download_service( 7023): 	at njp.f(PG:3)
+F/Finsky:download_service( 7023): 	at njp.g(PG:1)
+F/Finsky:download_service( 7023): 	at njp.c(PG:2)
+F/Finsky:download_service( 7023): 	at nla.h(PG)
+F/Finsky:download_service( 7023): 	at nky.a(Unknown Source)
+F/Finsky:download_service( 7023): 	at nla.j(PG:1)
+F/Finsky:download_service( 7023): 	at nla.d(PG)
+F/Finsky:download_service( 7023): 	at ngc.b(PG:4)
+F/Finsky:download_service( 7023): 	at nfo.f(PG:4)
+F/Finsky:download_service( 7023): 	at nfg.apply(Unknown Source)
+F/Finsky:download_service( 7023): 	at j$.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+F/Finsky:download_service( 7023): 	at j$.util.Iterator$$CC.forEachRemaining$$dflt$$(Unknown Source)
+F/Finsky:download_service( 7023): 	at j$.util.Iterator$$Dispatch.forEachRemaining(Unknown Source)
+F/Finsky:download_service( 7023): 	at j$.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+F/Finsky:download_service( 7023): 	at j$.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)
+F/Finsky:download_service( 7023): 	at j$.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+F/Finsky:download_service( 7023): 	at j$.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+F/Finsky:download_service( 7023): 	at j$.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+F/Finsky:download_service( 7023): 	at j$.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
+F/Finsky:download_service( 7023): 	at nei.a(Unknown Source)
+F/Finsky:download_service( 7023): 	at bapl.f(PG)
+F/Finsky:download_service( 7023): 	at bapn.run(PG:9)
+F/Finsky:download_service( 7023): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+F/Finsky:download_service( 7023): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+F/Finsky:download_service( 7023): 	at ojl.run(Unknown Source)
+F/Finsky:download_service( 7023): 	at java.lang.Thread.run(Thread.java:841)
+E/dalvikvm( 6870): Could not find class 'android.security.FileIntegrityManager', referenced from method rrg.aF
+E/dalvikvm( 6870): Could not find class 'android.content.pm.PackageInstaller$SessionParams', referenced from method ssp.b
+E/dalvikvm( 6870): Could not find class 'appx', referenced from method appy.b
+E/dalvikvm( 6870): Could not find class 'android.content.om.OverlayManager', referenced from method afyw.s
+E/dalvikvm( 6870): Could not find class 'android.app.usage.UsageStatsManager', referenced from method afnt.a
+E/cutils-trace( 7195): Error opening trace file: No such file or directory (2)
+E/cutils-trace( 7199): Error opening trace file: No such file or directory (2)
+E/cutils-trace( 7200): Error opening trace file: No such file or directory (2)
+E/cutils-trace( 7201): Error opening trace file: No such file or directory (2)
+E/cutils-trace( 7203): Error opening trace file: No such file or directory (2)
+E/dalvikvm( 7127): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/dalvikvm( 7148): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/DowngradeHelper( 7127): isModuleDowngradeRequired false
+E/dalvikvm( 7127): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7148): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7127): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7148): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7127): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7127): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7127): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7127): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7148): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7148): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7148): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7148): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7148): Could not find class 'android.hardware.location.ContextHubManager', referenced from method azgj.b
+E/dalvikvm( 7127): Could not find class 'android.bluetooth.le.ScanFilter$Builder', referenced from method kyf.f
+E/dalvikvm( 7127): Could not find class 'android.media.projection.MediaProjectionManager', referenced from method lqd.f
+E/dalvikvm( 7148): Could not find class 'android.content.RestrictionsManager', referenced from method azil.a
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):7)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/dalvikvm( 7127): Could not find class 'android.app.ActivityManager$TaskDescription', referenced from method com.google.android.gms.growth.ui.webview.GrowthWebViewChimeraActivity.onCreate
+E/dalvikvm( 7165): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/dalvikvm( 7165): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7165): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7165): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7165): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7165): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7165): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/GmsRequestQueue( 7165): Tried to stop global GMSCore RequestQueue. This is likely unintended, so ignoring.
+E/GmsRequestQueue( 7127): Tried to stop global GMSCore RequestQueue. This is likely unintended, so ignoring.
+E/Authzen ( 7127): [AuthZenEventHandler] unknown action: com.google.android.chimera.IntentOperation.NEW_MODULE
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@420dfe00.
+E/CastSocket( 7127): java.net.SocketException: Socket is closed
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:642)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):50)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 2
+E/dalvikvm( 7148): Could not find class 'android.app.NotificationChannel', referenced from method adlv.c
+E/native  ( 7127): model-utils.cc:38 Not a valid Model flatbuffer
+E/native  ( 7127): model-provider-from-fb.cc:102 Unable to initialize ModelProviderFromFlatbuffer
+E/dalvikvm( 7127): Could not find class 'android.app.usage.UsageStatsManager', referenced from method wdm.n
+E/dalvikvm( 7384): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/dalvikvm( 7384): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7384): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7384): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7384): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7384): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7384): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7148): Could not find class 'android.bluetooth.le.AdvertiseSettings$Builder', referenced from method bnbo.s
+E/dalvikvm( 7148): Could not find class 'android.app.usage.UsageStatsManager', referenced from method wdm.n
+E/Vision  ( 7127): Error loading optional module com.google.android.gms.vision.ocr: rqb: No acceptable module found. Local version is 0 and remote version is 0.
+E/dalvikvm( 7127): Could not find class 'android.telephony.SubscriptionManager', referenced from method ltt.a
+E/dalvikvm( 7127): Could not find class 'android.net.NetworkRequest', referenced from method ltt.a
+E/Vision  ( 7127): Error loading optional module com.google.android.gms.vision.ocr: rqb: No acceptable module found. Local version is 0 and remote version is 0.
+E/dalvikvm( 7127): Could not find class 'android.telephony.SubscriptionManager', referenced from method acpa.i
+E/dalvikvm( 7127): Could not find class 'android.telephony.SubscriptionManager', referenced from method acpa.m
+E/dalvikvm( 7127): Could not find class 'android.telephony.SubscriptionManager', referenced from method acpa.u
+E/dalvikvm( 7127): Could not find class 'android.telephony.SubscriptionManager', referenced from method aje.<clinit>
+E/dalvikvm( 7127): Could not find class 'android.app.job.JobScheduler', referenced from method aje.<clinit>
+E/dalvikvm( 7443): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/dalvikvm( 7443): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7443): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7443): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7443): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7443): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7443): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7443): Could not find class 'android.net.Network', referenced from method rni.c
+E/dalvikvm( 7148): Could not find class 'android.app.usage.UsageStatsManager', referenced from method cuj.f
+E/dalvikvm( 7148): Could not find class 'android.telephony.SubscriptionManager', referenced from method ansu.b
+E/ctxmgr  ( 7148): [FencePendingIntentCache]Expected to find a PendingIntent for pendingIntentKey=3a6e77c4-06fc-4d67-8aa3-e48d8ea9493b [CONTEXT service_id=47 ]
+E/ctxmgr  ( 7148): [FencePendingIntentCache]Expected to find a PendingIntent for pendingIntentKey=3a6e77c4-06fc-4d67-8aa3-e48d8ea9493b [CONTEXT service_id=47 ]
+E/ctxmgr  ( 7148): [FencePendingIntentCache]Expected to find a PendingIntent for pendingIntentKey=3a6e77c4-06fc-4d67-8aa3-e48d8ea9493b [CONTEXT service_id=47 ]
+E/ctxmgr  ( 7148): [FencePendingIntentCache]Expected to find a PendingIntent for pendingIntentKey=3a6e77c4-06fc-4d67-8aa3-e48d8ea9493b [CONTEXT service_id=47 ]
+E/ctxmgr  ( 7148): [FencePendingIntentCache]Expected to find a PendingIntent for pendingIntentKey=3a6e77c4-06fc-4d67-8aa3-e48d8ea9493b [CONTEXT service_id=47 ]
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/ModuleIdSetter( 7148): exception when setting module id
+E/ModuleIdSetter( 7148): java.lang.IllegalStateException: Unable to get current module info in ModuleManager created with non-module Context
+E/ModuleIdSetter( 7148): 	at com.google.android.chimera.config.ModuleManager.getCurrentModule(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/ModuleIdSetter( 7148): 	at aabi.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/ModuleIdSetter( 7148): 	at aabl.Y(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/ModuleIdSetter( 7148): 	at zxy.a(Unknown Source)
+E/ModuleIdSetter( 7148): 	at ndo.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/ModuleIdSetter( 7148): 	at mzs.f(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/ModuleIdSetter( 7148): 	at mzq.e(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/ModuleIdSetter( 7148): 	at nck.p(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/ModuleIdSetter( 7148): 	at nck.v(:com.google.android.gms@204714003@20.47.14 (000306-349456378):3)
+E/ModuleIdSetter( 7148): 	at nck.e(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/ModuleIdSetter( 7148): 	at nco.handleMessage(:com.google.android.gms@204714003@20.47.14 (000306-349456378):70)
+E/ModuleIdSetter( 7148): 	at android.os.Handler.dispatchMessage(Handler.java:98)
+E/ModuleIdSetter( 7148): 	at zqw.hZ(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/ModuleIdSetter( 7148): 	at zqw.dispatchMessage(:com.google.android.gms@204714003@20.47.14 (000306-349456378):11)
+E/ModuleIdSetter( 7148): 	at android.os.Looper.loop(Looper.java:136)
+E/ModuleIdSetter( 7148): 	at android.os.HandlerThread.run(HandlerThread.java:61)
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.games [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.cast [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.mobile_data_plan [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.nearby [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.signin [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.udc [CONTEXT service_id=231 ]
+E/dalvikvm( 7127): Could not find class 'android.telephony.SubscriptionManager', referenced from method lwq.k
+E/AuthPII ( 7165): [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. Account: Account {name=@@ContextManagerNullAccount@@, type=com.google}, App: com.google.android.gms, Service: ^^_account_id_^^
+E/AuthPII ( 7165): ngm: Long live credential not available.
+E/AuthPII ( 7165): 	at fia.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):12)
+E/AuthPII ( 7165): 	at fid.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AuthPII ( 7165): 	at fgp.k(:com.google.android.gms@204714003@20.47.14 (000306-349456378):39)
+E/AuthPII ( 7165): 	at bvz.j(:com.google.android.gms@204714003@20.47.14 (000306-349456378):34)
+E/AuthPII ( 7165): 	at bvz.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/AuthPII ( 7165): 	at bvz.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):64)
+E/AuthPII ( 7165): 	at bvz.en(:com.google.android.gms@204714003@20.47.14 (000306-349456378):7)
+E/AuthPII ( 7165): 	at bue.onTransact(:com.google.android.gms@204714003@20.47.14 (000306-349456378):5)
+E/AuthPII ( 7165): 	at android.os.Binder.transact(Binder.java:361)
+E/AuthPII ( 7165): 	at bxx.onTransact(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AuthPII ( 7165): 	at android.os.Binder.transact(Binder.java:361)
+E/AuthPII ( 7165): 	at vtj.onTransact(:com.google.android.gms@204714003@20.47.14 (000306-349456378):17)
+E/AuthPII ( 7165): 	at android.os.Binder.execTransact(Binder.java:404)
+E/AuthPII ( 7165): 	at dalvik.system.NativeStart.run(Native Method)
+E/AuthPII ( 7165): Message is Long live credential not available.
+E/AuthPII ( 7165): ngm: Long live credential not available.
+E/AuthPII ( 7165): 	at fia.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):12)
+E/AuthPII ( 7165): 	at fid.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AuthPII ( 7165): 	at fgp.k(:com.google.android.gms@204714003@20.47.14 (000306-349456378):39)
+E/AuthPII ( 7165): 	at bvz.j(:com.google.android.gms@204714003@20.47.14 (000306-349456378):34)
+E/AuthPII ( 7165): 	at bvz.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/AuthPII ( 7165): 	at bvz.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):64)
+E/AuthPII ( 7165): 	at bvz.en(:com.google.android.gms@204714003@20.47.14 (000306-349456378):7)
+E/AuthPII ( 7165): 	at bue.onTransact(:com.google.android.gms@204714003@20.47.14 (000306-349456378):5)
+E/AuthPII ( 7165): 	at android.os.Binder.transact(Binder.java:361)
+E/AuthPII ( 7165): 	at bxx.onTransact(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AuthPII ( 7165): 	at android.os.Binder.transact(Binder.java:361)
+E/AuthPII ( 7165): 	at vtj.onTransact(:com.google.android.gms@204714003@20.47.14 (000306-349456378):17)
+E/AuthPII ( 7165): 	at android.os.Binder.execTransact(Binder.java:404)
+E/AuthPII ( 7165): 	at dalvik.system.NativeStart.run(Native Method)
+E/aobl    ( 7148): Exception occurred while getting SettingsStore instance.
+E/aobl    ( 7148): java.util.concurrent.ExecutionException: com.google.android.gms.auth.UserRecoverableAuthException: BadAuthentication
+E/aobl    ( 7148): 	at java.util.concurrent.FutureTask.report(FutureTask.java:93)
+E/aobl    ( 7148): 	at java.util.concurrent.FutureTask.get(FutureTask.java:177)
+E/aobl    ( 7148): 	at aobl.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):3)
+E/aobl    ( 7148): 	at aobl.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/aobl    ( 7148): 	at anwv.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):5)
+E/aobl    ( 7148): 	at anwv.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):12)
+E/aobl    ( 7148): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/aobl    ( 7148): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/aobl    ( 7148): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/aobl    ( 7148): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):7)
+E/aobl    ( 7148): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/aobl    ( 7148): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/aobl    ( 7148): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/aobl    ( 7148): 	at java.lang.Thread.run(Thread.java:841)
+E/aobl    ( 7148): Caused by: com.google.android.gms.auth.UserRecoverableAuthException: BadAuthentication
+E/aobl    ( 7148): 	at fdf.s(:com.google.android.gms@204714003@20.47.14 (000306-349456378):3)
+E/aobl    ( 7148): 	at fda.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/aobl    ( 7148): 	at fdf.y(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/aobl    ( 7148): 	at fdf.q(:com.google.android.gms@204714003@20.47.14 (000306-349456378):15)
+E/aobl    ( 7148): 	at fdf.p(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/aobl    ( 7148): 	at fdf.n(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/aobl    ( 7148): 	at fdf.x(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/aobl    ( 7148): 	at aoby.call(Unknown Source)
+E/aobl    ( 7148): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+E/aobl    ( 7148): 	... 6 more
+E/dalvikvm( 7127): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method sof.a
+E/dalvikvm( 7127): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method sra.a
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/GCM     ( 7127): Dropping message to GMS from null as no component is set
+E/FA-SVC  ( 7127): Error writing to channel. Bytes written: 8
+E/PhenotypeFlagCommitter( 7127): Retrieving snapshot for com.google.lighter.android#com.google.android.gms failed
+E/PhenotypeFlagCommitter( 7127): java.util.concurrent.TimeoutException: Timed out waiting for Task
+E/PhenotypeFlagCommitter( 7127): 	at annr.f(:com.google.android.gms@204714003@20.47.14 (000306-349456378):7)
+E/PhenotypeFlagCommitter( 7127): 	at aijj.e(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/PhenotypeFlagCommitter( 7127): 	at aijj.h(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/PhenotypeFlagCommitter( 7127): 	at aijj.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/PhenotypeFlagCommitter( 7127): 	at aumm.apply(Unknown Source)
+E/PhenotypeFlagCommitter( 7127): 	at biym.e(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/PhenotypeFlagCommitter( 7127): 	at biyn.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/PhenotypeFlagCommitter( 7127): 	at bizs.execute(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/PhenotypeFlagCommitter( 7127): 	at biyj.r(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/PhenotypeFlagCommitter( 7127): 	at biyj.m(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/PhenotypeFlagCommitter( 7127): 	at biyj.j(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/PhenotypeFlagCommitter( 7127): 	at bjbw.f(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/PhenotypeFlagCommitter( 7127): 	at bjax.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):11)
+E/PhenotypeFlagCommitter( 7127): 	at bjbx.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/PhenotypeFlagCommitter( 7127): 	at aump.run(Unknown Source)
+E/PhenotypeFlagCommitter( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/PhenotypeFlagCommitter( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/PhenotypeFlagCommitter( 7127): 	at aunh.run(Unknown Source)
+E/PhenotypeFlagCommitter( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/dalvikvm( 7148): Could not find class 'android.app.usage.UsageStatsManager', referenced from method aaor.e
+E/dalvikvm( 7582): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/dalvikvm( 7582): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7582): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7582): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7582): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7582): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7582): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/DowngradeHelper( 7127): isModuleDowngradeRequired false
+E/ChimeraProxyRslvr( 7127): Chimera config error: com.google.android.chimera.config.InvalidConfigException: No registered Chimera impl for com.google.android.gms.cast.service.CastGcmTaskService
+E/ChimeraSrvcProxy( 7127): Proxy without impl dropping onStart()
+E/DowngradeHelper( 7127): isModuleDowngradeRequired false
+E/ChimeraProxyRslvr( 7127): Chimera config error: com.google.android.chimera.config.InvalidConfigException: No registered Chimera impl for com.google.android.gms.growth.service.GrowthTaskService
+E/ChimeraSrvcProxy( 7127): Proxy without impl dropping onStart()
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/ChimeraProxyRslvr( 7127): Chimera config error: com.google.android.chimera.config.InvalidConfigException: No registered Chimera impl for com.google.android.gms.growth.service.GrowthNotificationTaskService
+E/ChimeraSrvcProxy( 7127): Proxy without impl dropping onStart()
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/WakeLock( 7127): DG:service ** IS FORCE-RELEASED ON TIMEOUT **
+E/ChimeraProxyRslvr( 7148): Chimera config error: com.google.android.chimera.config.InvalidConfigException: No registered Chimera impl for com.google.android.location.internal.NanoAppUpdaterGcmTaskService
+E/ChimeraSrvcProxy( 7148): Proxy without impl dropping onStart()
+E/ChimeraProxyRslvr( 7148): Chimera config error: com.google.android.chimera.config.InvalidConfigException: No registered Chimera impl for com.google.android.gms.nearby.exposurenotification.service.ExposureMatchingTriggerService
+E/ChimeraSrvcProxy( 7148): Proxy without impl dropping onStart()
+E/dalvikvm( 7148): Could not find class 'android.system.ErrnoException', referenced from method vns.i
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.games [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.maps [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.cast [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.mobile_data_plan [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.nearby [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.signin [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.udc [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.games [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.maps [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.cast [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.mobile_data_plan [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.nearby [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.signin [CONTEXT service_id=231 ]
+E/PhenotypeRegOp( 7127): Attempting to overwrite config package for com.google.android.gms.udc [CONTEXT service_id=231 ]
+E/dalvikvm( 7127): Could not find class 'cq', referenced from method cu.<init>
+E/dalvikvm( 7148): Could not find class 'cq', referenced from method cu.<init>
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/dalvikvm( 7127): Could not find class 'android.app.Notification$Action$Builder', referenced from method bs.a
+E/dalvikvm( 7127): Could not find class 'android.app.Notification$Action$Builder', referenced from method bs.a
+E/dalvikvm( 7148): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method sof.a
+E/dalvikvm( 7148): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method sra.a
+E/dalvikvm( 7148): Could not find class 'android.system.ErrnoException', referenced from method msn.a
+--------- beginning of /dev/log/system
+E/dalvikvm( 7827): Could not find class 'android.content.pm.ShortcutManager', referenced from method com.google.android.apps.gsa.binaries.devore.app.c.hy
+E/dalvikvm( 2842): Could not find class 'android.widget.Toolbar', referenced from method ch.gridvision.ppam.androidautomagic.FlowListActivity.b
+E/dalvikvm( 2842): Could not find class 'android.widget.Toolbar', referenced from method ch.gridvision.ppam.androidautomagic.FlowListActivity.j
+E/        ( 2842): Device driver API match
+E/        ( 2842): Device driver API version: 23
+E/        ( 2842): User space API version: 23 
+E/        ( 2842): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/dalvikvm( 7850): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/dalvikvm( 7850): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7850): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7850): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7850): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7850): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7850): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7889): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm( 7889): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.e.a
+E/dalvikvm( 7889): Could not find class 'tt.r8$b', referenced from method tt.r8.<init>
+E/dalvikvm( 7889): Could not find class 'android.app.NotificationChannel', referenced from method com.ttxapps.autosync.app.n.c
+E/dalvikvm( 7889): Could not find class 'android.app.usage.UsageStatsManager', referenced from method com.ttxapps.autosync.util.s.a
+E/dalvikvm( 7889): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm( 7889): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm( 7889): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm( 7889): Could not find class 'androidx.core.app.p', referenced from method androidx.core.app.o.onCreate
+E/dalvikvm( 7889): Could not find class 'androidx.core.app.g$f', referenced from method androidx.core.app.g.onCreate
+E/dalvikvm( 7926): Could not find class 'cux', referenced from method cug.a
+E/dalvikvm( 7889): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7889): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7889): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7889): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7889): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7889): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7926): Could not find class 'com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain', referenced from method aeiu.b
+E/dalvikvm( 7926): Could not find class 'android.content.pm.PackageInstaller', referenced from method aacr.b
+E/dalvikvm( 7926): Could not find class 'android.content.pm.PackageInstaller', referenced from method afds.b
+E/dalvikvm( 7926): Could not find class 'android.content.pm.PackageInstaller', referenced from method afdr.b
+E/dalvikvm( 7926): Could not find class 'android.app.usage.NetworkStatsManager', referenced from method fmm.b
+E/dalvikvm( 7926): Could not find class 'android.app.usage.NetworkStatsManager', referenced from method krf.b
+E/dalvikvm( 7926): Could not find class 'android.app.usage.UsageStatsManager', referenced from method fmw.b
+E/dalvikvm( 7926): Could not find class 'android.app.NotificationChannelGroup', referenced from method adhr.h
+E/dalvikvm( 7926): Could not find class 'android.app.job.JobScheduler', referenced from method aedg.a
+E/dalvikvm( 7926): Could not find class 'android.app.job.JobScheduler', referenced from method aedg.a
+E/dalvikvm( 7926): Could not find class 'bjep', referenced from method bjet.<init>
+E/dalvikvm( 7926): Could not find class 'bjeh', referenced from method bjet.<init>
+E/dalvikvm( 7926): Could not find class 'bjej', referenced from method bjet.<init>
+E/dalvikvm( 7926): Could not find class 'android.net.ProxyInfo', referenced from method org.chromium.net.ProxyChangeListener.a
+E/dalvikvm( 7926): Could not find class 'android.content.RestrictionsManager', referenced from method mnb.f
+E/dalvikvm( 7926): Could not find class 'android.content.RestrictionsManager', referenced from method aoak.<init>
+E/dalvikvm( 7926): Could not find class 'absa', referenced from method abtf.t
+E/dalvikvm( 7926): Could not find class 'android.app.NotificationChannel', referenced from method yba.az
+E/dalvikvm( 7926): Could not find class 'android.app.usage.UsageStatsManager', referenced from method rhv.b
+E/dalvikvm( 7926): Could not find class 'android.app.usage.UsageStats', referenced from method rhv.b
+E/dalvikvm( 7926): Could not find class 'org.conscrypt.TrustManagerImpl', referenced from method org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 7926): Could not find class 'org.conscrypt.TrustManagerImpl', referenced from method org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm( 7926): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method izj.<init>
+E/dalvikvm( 7926): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method izj.g
+E/dalvikvm( 7926): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method izj.a
+E/dalvikvm( 7926): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method izj.a
+E/dalvikvm( 7926): Could not find class 'android.hardware.fingerprint.FingerprintManager', referenced from method ij.a
+E/dalvikvm( 7926): Could not find class 'android.hardware.fingerprint.FingerprintManager', referenced from method ij.a
+E/dalvikvm( 7926): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm( 7926): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+E/dalvikvm( 7926): Could not find class 'javax.net.ssl.SNIServerName', referenced from method org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 7926): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 7926): Could not find class 'javax.net.ssl.SNIHostName', referenced from method org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7926): Could not find class 'javax.net.ssl.SNIHostName', referenced from method org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 7926): Could not find class 'org.conscrypt.Java8ExtendedSSLSession', referenced from method org.conscrypt.Platform.wrapSSLSession
+E/dalvikvm( 8020): Could not find class 'com.google.android.finsky.scheduler.process.downloadserviceimpl.PhoneskyJobServiceDownloadService', referenced from method aeis.b
+E/dalvikvm( 8020): Could not find class 'android.app.NotificationChannel', referenced from method njz.a
+E/dalvikvm( 8020): Could not find class 'nkk', referenced from method nkl.a
+E/dalvikvm( 8020): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm( 8020): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+E/dalvikvm( 7926): Could not find class 'android.telephony.SubscriptionManager', referenced from method aydu.a
+E/dalvikvm( 7926): Could not find class 'android.hardware.fingerprint.FingerprintManager', referenced from method ayia.h
+E/dalvikvm( 7926): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method ayia.i
+E/dalvikvm( 7926): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method iqy.b
+E/dalvikvm( 7926): Could not find class 'android.content.pm.PackageInstaller$SessionParams', referenced from method ssp.b
+E/dalvikvm( 7926): Could not find class 'appx', referenced from method appy.b
+E/dalvikvm( 7926): Could not find class 'android.content.om.OverlayManager', referenced from method afyw.s
+E/dalvikvm( 7926): Could not find class 'android.app.usage.UsageStatsManager', referenced from method afnt.a
+E/Finsky  ( 7926): [378] aggu.a(1): Deferred uninstall works only for L+
+E/GmsRequestQueue( 7850): Tried to stop global GMSCore RequestQueue. This is likely unintended, so ignoring.
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/        ( 8138): Device driver API match
+E/        ( 8138): Device driver API version: 23
+E/        ( 8138): User space API version: 23 
+E/        ( 8138): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 8257): Device driver API match
+E/        ( 8257): Device driver API version: 23
+E/        ( 8257): User space API version: 23 
+E/        ( 8257): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/SELinux ( 8313): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux ( 8313): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/        ( 8332): Device driver API match
+E/        ( 8332): Device driver API version: 23
+E/        ( 8332): User space API version: 23 
+E/        ( 8332): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Finsky  ( 7926): [1] VerifyPerSourceInstallationConsentInstallTask.f(2): Package name null is not an installed package
+E/cutils-trace( 8410): Error opening trace file: No such file or directory (2)
+E/dalvikvm( 7926): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method bawo.e
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/dalvikvm( 2842): Could not find class 'ch.gridvision.ppam.androidautomagic.AccessibilityService$1', referenced from method ch.gridvision.ppam.androidautomagic.AccessibilityService.n
+E/dalvikvm( 8566): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.Schedulers.createBestAvailableBackgroundScheduler
+E/dalvikvm( 8566): Could not find class 'androidx.work.impl.constraints.trackers.NetworkStateTracker$NetworkStateCallback', referenced from method androidx.work.impl.constraints.trackers.NetworkStateTracker.<init>
+E/dalvikvm( 8566): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.<init>
+E/dalvikvm( 8566): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.a
+E/Unity   ( 8566): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   ( 8566): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   ( 8566): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   ( 8566): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   ( 8566): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   ( 8566): 
+E/        ( 8566): Device driver API match
+E/        ( 8566): Device driver API version: 23
+E/        ( 8566): User space API version: 23 
+E/        ( 8566): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Unity   ( 8566): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   ( 8566): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   ( 8566): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/dalvikvm( 8566): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method com.unity3d.player.ReflectionHelper$1.a
+E/dalvikvm( 8566): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm( 8566): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method oo.c
+E/dalvikvm( 8566): Could not find class 'android.app.NotificationChannel', referenced from method com.google.android.gms.ads.nonagon.a.b
+E/FA      ( 8566): Missing valid measurement identifier from string resources
+E/rsC++   ( 2637): RS Message thread exiting.
+E/FA      ( 8566): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/FA      ( 8566): Uploading is not possible. App measurement disabled
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob
+E/Unity   ( 8566): UnityEngine.UI.Graphic:get_defaultGraphicMaterial()
+E/Unity   ( 8566): UnityEngine.UI.Graphic:get_materialForRendering()
+E/Unity   ( 8566): UnityEngine.UI.Graphic:UpdateMaterial()
+E/Unity   ( 8566): UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+E/Unity   ( 8566): UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+E/Unity   ( 8566): UnityEngine.WillRenderCanvases:Invoke()
+E/Unity   ( 8566): 
+E/Unity   ( 8566): [/Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp line 610] 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/Unity   ( 8566): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   ( 8566): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   ( 8566): 
+E/FA      ( 8566): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/FA      ( 8566): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/rsC++   ( 2637): RS Message thread exiting.
+E/rsC++   ( 8332): RS Message thread exiting.
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/InputDispatcher( 2279): channel '427aa228 com.SagittariusGames.Template/com.unity3d.player.UnityPlayerActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/PowerManagerService( 2279): Invalid boost duration: 0
+E/PowerManagerService( 2279): Invalid boost duration: 0
+E/rsC++   ( 2637): RS Message thread exiting.
+E/dalvikvm( 7127): Could not find class 'android.app.usage.UsageStatsManager', referenced from method war.a
+E/        ( 7127): Device driver API match
+E/        ( 7127): Device driver API version: 23
+E/        ( 7127): User space API version: 23 
+E/        ( 7127): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 2279): Device driver API match
+E/        ( 2279): Device driver API version: 23
+E/        ( 2279): User space API version: 23 
+E/        ( 2279): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/dalvikvm( 7827): Could not find class 'com.google.android.apps.gsa.shared.ae.c', referenced from method com.google.android.apps.gsa.shared.ae.b.a
+E/dalvikvm( 7827): Could not find class 'com.google.android.apps.gsa.shared.ae.c', referenced from method com.google.android.apps.gsa.shared.ae.b.a
+E/dalvikvm( 7827): Could not find class 'com.google.android.apps.gsa.shared.ae.c', referenced from method com.google.android.apps.gsa.shared.ae.b.b
+E/dalvikvm( 7827): Could not find class 'com.google.android.apps.gsa.shared.ae.c', referenced from method com.google.android.apps.gsa.shared.ae.b.b
+E/WorkerLoader( 7827): No worker found for Worker ID [gellersync].
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/JavaBinder( 2279): !!! FAILED BINDER TRANSACTION !!!
+E/JavaBinder( 2279): !!! FAILED BINDER TRANSACTION !!!
+E/JavaBinder( 2279): !!! FAILED BINDER TRANSACTION !!!
+E/WakeLock( 7148): UlrDispSvcFastWL ** IS FORCE-RELEASED ON TIMEOUT **
+E/WakeLock( 7148): CMWakeLock ** IS FORCE-RELEASED ON TIMEOUT **
+E/gpsd    ( 1902): MainSelectManager::ProcessEvent took 5123 ms
+E/gpsd    ( 1902): ASSERT: ASSERT(false) failed in /tmp/11980989/proprietary/deliverables/android/gps_interface/../gpsd/common/GlGpsdInterface.cpp:464
+E/iNemoSensor( 2279): setDelay_gyro is failed.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/dalvikvm( 7889): Could not find class 'android.media.AudioAttributes$Builder', referenced from method androidx.core.app.j$e.w
+E/dalvikvm( 7889): Could not find class 'android.app.Notification$Action$Builder', referenced from method androidx.core.app.k.b
+E/dalvikvm( 7889): Could not find class 'android.app.Notification$Action$Builder', referenced from method androidx.core.app.k.b
+E/dalvikvm( 9188): Could not find class 'android.content.pm.ShortcutManager', referenced from method com.google.android.apps.gsa.binaries.devore.app.c.hy
+E/DictionaryBackupAgent( 8418): Couldn't read from the cursor
+E/dalvikvm( 9248): Could not find class 'android.app.job.JobScheduler', referenced from method bgn.a
+E/dalvikvm( 9248): Could not find class 'android.app.job.JobScheduler', referenced from method bgn.b
+E/dalvikvm( 9248): Could not find class 'android.content.pm.ShortcutManager', referenced from method ggl.a
+E/dalvikvm( 9248): Could not find class 'aox', referenced from method aok.a
+E/dalvikvm( 9248): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method kpl.a
+E/dalvikvm( 9248): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm( 9248): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/SELinux ( 9383): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux ( 9383): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/dalvikvm( 9248): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm( 9248): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm( 9248): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm( 9248): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/WorkerLoader( 7827): No worker found for Worker ID [gellersync].
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/rzf     ( 9248): Interactive Ads jobs: did not expect this future to ever resolve
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 7443): Device driver API match
+E/        ( 7443): Device driver API version: 23
+E/        ( 7443): User space API version: 23 
+E/        ( 7443): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/gpsd    ( 9058): MainSelectManager::ProcessEvent took 8827 ms
+E/gpsd    ( 9058): ASSERT: ASSERT(false) failed in /tmp/11980989/proprietary/deliverables/android/gps_interface/../gpsd/common/GlGpsdInterface.cpp:464
+E/iNemoSensor( 2279): setDelay_gyro is failed.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/DhcpStateMachine( 2279): DHCP failed on wlan0: Timed out waiting for DHCP to finish
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/WorkerLoader( 7827): No worker found for Worker ID [gellersync].
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/WakeLock( 7148): GCM_CONN_ALARM ** IS FORCE-RELEASED ON TIMEOUT **
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@42b66a50.
+E/CastSocket( 7127): java.net.SocketException: Socket is not connected
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:646)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):19)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 3
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WorkerLoader( 7827): No worker found for Worker ID [gellersync].
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@42bb4390.
+E/CastSocket( 7127): java.net.SocketException: Socket is closed
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:642)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):50)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 2
+E/WakeLock( 7148): GCM_CONN_ALARM ** IS FORCE-RELEASED ON TIMEOUT **
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/DhcpStateMachine( 2279): DHCP failed on wlan0: Timed out waiting for DHCP to finish
+E/WifiStateMachine( 2279): IP configuration failed
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@42ca3020.
+E/CastSocket( 7127): java.net.SocketException: Socket is closed
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:642)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):50)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 2
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/NetdConnector( 2279): NDC Command {225 interface ipv6 wlan0 disable} took too long (532ms)
+E/WifiNative-wlan0( 2279): doBoolean: enable
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiNative-wlan0( 2279): doBoolean: disable
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/ActivityThread( 2514): Failed to find provider info for null.com.mcafee.core.provider.keyvaluedata
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/WorkerLoader( 7827): No worker found for Worker ID [gellersync].
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        (11029): Device driver API match
+E/        (11029): Device driver API version: 23
+E/        (11029): User space API version: 23 
+E/        (11029): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        (11086): Device driver API match
+E/        (11086): Device driver API version: 23
+E/        (11086): User space API version: 23 
+E/        (11086): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Finsky  ( 7926): [1] VerifyPerSourceInstallationConsentInstallTask.f(2): Package name null is not an installed package
+E/gpsd    ( 9655): MainSelectManager::ProcessEvent took 2534 ms
+E/gpsd    ( 9655): ASSERT: ASSERT(false) failed in /tmp/11980989/proprietary/deliverables/android/gps_interface/../gpsd/common/GlGpsdInterface.cpp:464
+E/iNemoSensor( 2279): setDelay_gyro is failed.
+E/cutils-trace(11149): Error opening trace file: No such file or directory (2)
+E/WakeLock( 7148): GCM_READ ** IS FORCE-RELEASED ON TIMEOUT **
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/WorkerLoader( 7827): No worker found for Worker ID [gellersync].
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/FirebaseInstanceId( 7827): Failed to resolve target intent service, skipping classname enforcement
+E/FirebaseInstanceId( 7827): Error while delivering the message: ServiceIntent not found.
+E/dalvikvm(11284): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.Schedulers.createBestAvailableBackgroundScheduler
+E/dalvikvm(11284): Could not find class 'androidx.work.impl.constraints.trackers.NetworkStateTracker$NetworkStateCallback', referenced from method androidx.work.impl.constraints.trackers.NetworkStateTracker.<init>
+E/dalvikvm(11284): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.<init>
+E/dalvikvm(11284): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.a
+E/Unity   (11284): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (11284): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (11284): 
+E/Unity   (11284): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (11284): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (11284): 
+E/Unity   (11284): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (11284): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (11284): 
+E/Unity   (11284): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (11284): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (11284): 
+E/        (11284): Device driver API match
+E/        (11284): Device driver API version: 23
+E/        (11284): User space API version: 23 
+E/        (11284): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Unity   (11284): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   (11284): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   (11284): 
+E/dalvikvm(11332): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bgui.a
+E/dalvikvm(11332): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm(11332): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm(11332): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm(11332): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm(11332): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm(11332): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/rsC++   (11086): RS Message thread exiting.
+E/rsC++   ( 2637): RS Message thread exiting.
+E/Unity   (11284): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   (11284): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   (11284): 
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/dalvikvm(11284): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method com.unity3d.player.ReflectionHelper$1.a
+E/dalvikvm(11284): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm(11383): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm(11284): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method oo.c
+E/dalvikvm(11284): Could not find class 'android.app.NotificationChannel', referenced from method com.google.android.gms.ads.nonagon.a.b
+E/dalvikvm(11383): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.e.a
+E/dalvikvm(11383): Could not find class 'tt.r8$b', referenced from method tt.r8.<init>
+E/FA      (11284): Missing valid measurement identifier from string resources
+E/FA      (11284): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/FA      (11284): Uploading is not possible. App measurement disabled
+E/dalvikvm(11383): Could not find class 'android.app.NotificationChannel', referenced from method com.ttxapps.autosync.app.n.c
+E/dalvikvm(11383): Could not find class 'android.app.usage.UsageStatsManager', referenced from method com.ttxapps.autosync.util.s.a
+E/dalvikvm(11383): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm(11383): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm(11383): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm(11383): Could not find class 'androidx.core.app.p', referenced from method androidx.core.app.o.onCreate
+E/dalvikvm(11383): Could not find class 'androidx.core.app.g$f', referenced from method androidx.core.app.g.onCreate
+E/dalvikvm(11383): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm(11383): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm(11383): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm(11383): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm(11383): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm(11383): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm(11433): Could not find class 'cux', referenced from method cug.a
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob
+E/Unity   (11284): UnityEngine.Canvas:GetDefaultCanvasMaterial()
+E/Unity   (11284): UnityEngine.UI.Graphic:get_defaultGraphicMaterial() (at C:\Program Files\Unity\Hub\Editor\2019.4.18f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Graphic.cs:95)
+E/Unity   (11284): UnityEngine.UI.Graphic:get_defaultMaterial() (at C:\Program Files\Unity\Hub\Editor\2019.4.18f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Graphic.cs:409)
+E/Unity   (11284): UnityEngine.UI.Graphic:get_material() (at C:\Program Files\Unity\Hub\Editor\2019.4.18f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Graphic.cs:419)
+E/Unity   (11284): UnityEngine.UI.Graphic:get_materialForRendering() (at C:\Program Files\Unity\Hub\Editor\2019.4.18f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui\Runtime\UI\Core\Graphic.cs:444)
+E/Unity   (11284): UnityEngine.UI.Graphic:UpdateMaterial() (at C:\Program Files\Unity\Hub\Editor\2019.4.18f1\Editor\Data\Resources\PackageManager
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/Unity   (11284): Desired shader compiler platform 5 is not available in shader blob 
+E/Unity   (11284): (Filename: /Users/bokken/buildslave/unity/build/Runtime/Shaders/Shader.cpp Line: 610)
+E/Unity   (11284): 
+E/dalvikvm(11433): Could not find class 'com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain', referenced from method aeiu.b
+E/dalvikvm(11433): Could not find class 'android.content.pm.PackageInstaller', referenced from method aacr.b
+E/dalvikvm(11433): Could not find class 'android.content.pm.PackageInstaller', referenced from method afds.b
+E/dalvikvm(11433): Could not find class 'android.content.pm.PackageInstaller', referenced from method afdr.b
+E/dalvikvm(11433): Could not find class 'android.app.usage.NetworkStatsManager', referenced from method fmm.b
+E/dalvikvm(11433): Could not find class 'android.app.usage.NetworkStatsManager', referenced from method krf.b
+E/dalvikvm(11433): Could not find class 'android.app.usage.UsageStatsManager', referenced from method fmw.b
+E/dalvikvm(11433): Could not find class 'android.app.NotificationChannelGroup', referenced from method adhr.h
+E/dalvikvm(11433): Could not find class 'android.app.job.JobScheduler', referenced from method aedg.a
+E/dalvikvm(11433): Could not find class 'android.app.job.JobScheduler', referenced from method aedg.a
+E/dalvikvm(11433): Could not find class 'bjep', referenced from method bjet.<init>
+E/dalvikvm(11433): Could not find class 'bjeh', referenced from method bjet.<init>
+E/dalvikvm(11433): Could not find class 'bjej', referenced from method bjet.<init>
+E/dalvikvm(11433): Could not find class 'android.net.ProxyInfo', referenced from method org.chromium.net.ProxyChangeListener.a
+E/dalvikvm(11433): Could not find class 'android.content.RestrictionsManager', referenced from method mnb.f
+E/dalvikvm(11433): Could not find class 'absa', referenced from method abtf.t
+E/dalvikvm(11433): Could not find class 'android.content.RestrictionsManager', referenced from method aoak.<init>
+E/dalvikvm(11433): Could not find class 'android.app.NotificationChannel', referenced from method yba.az
+E/dalvikvm(11433): Could not find class 'android.app.usage.UsageStatsManager', referenced from method rhv.b
+E/dalvikvm(11433): Could not find class 'android.app.usage.UsageStats', referenced from method rhv.b
+E/dalvikvm(11433): Could not find class 'org.conscrypt.TrustManagerImpl', referenced from method org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm(11433): Could not find class 'org.conscrypt.TrustManagerImpl', referenced from method org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm(11433): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method izj.<init>
+E/dalvikvm(11433): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method izj.g
+E/dalvikvm(11433): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method izj.a
+E/dalvikvm(11433): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method izj.a
+E/dalvikvm(11433): Could not find class 'android.hardware.fingerprint.FingerprintManager', referenced from method ij.a
+E/dalvikvm(11433): Could not find class 'android.hardware.fingerprint.FingerprintManager', referenced from method ij.a
+E/dalvikvm(11433): Could not find class 'javax.net.ssl.SNIServerName', referenced from method org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm(11433): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm(11433): Could not find class 'javax.net.ssl.SNIHostName', referenced from method org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm(11433): Could not find class 'javax.net.ssl.SNIHostName', referenced from method org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm(11433): Could not find class 'org.conscrypt.Java8ExtendedSSLSession', referenced from method org.conscrypt.Platform.wrapSSLSession
+E/dalvikvm(11433): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm(11433): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+E/dalvikvm(11526): Could not find class 'com.google.android.finsky.scheduler.process.downloadserviceimpl.PhoneskyJobServiceDownloadService', referenced from method aeis.b
+E/GmsRequestQueue(11332): Tried to stop global GMSCore RequestQueue. This is likely unintended, so ignoring.
+E/dalvikvm(11526): Could not find class 'android.app.NotificationChannel', referenced from method njz.a
+E/dalvikvm(11526): Could not find class 'nkk', referenced from method nkl.a
+E/dalvikvm(11526): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm(11526): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+E/dalvikvm(11433): Could not find class 'android.content.pm.PackageInstaller$SessionParams', referenced from method ssp.b
+E/InputDispatcher( 2279): channel '4221ab38  (server)' ~ Channel is unrecoverably broken and will be disposed!
+E/dalvikvm(11433): Could not find class 'android.telephony.SubscriptionManager', referenced from method aydu.a
+E/dalvikvm(11433): Could not find class 'android.hardware.fingerprint.FingerprintManager', referenced from method ayia.h
+E/dalvikvm(11433): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method ayia.i
+E/dalvikvm(11433): Could not find class 'android.hardware.biometrics.BiometricManager', referenced from method iqy.b
+E/dalvikvm(11585): Could not find class 'android.content.pm.ShortcutManager', referenced from method com.google.android.apps.gsa.binaries.devore.app.c.hy
+E/dalvikvm(11433): Could not find class 'appx', referenced from method appy.b
+E/dalvikvm(11433): Could not find class 'android.content.om.OverlayManager', referenced from method afyw.s
+E/dalvikvm(11433): Could not find class 'android.app.usage.UsageStatsManager', referenced from method afnt.a
+E/dalvikvm(11610): Could not find class 'com.google.android.finsky.scheduler.process.downloadserviceimpl.PhoneskyJobServiceDownloadService', referenced from method aeis.b
+E/dalvikvm(11610): Could not find class 'android.app.NotificationChannel', referenced from method njz.a
+E/dalvikvm(11610): Could not find class 'nkk', referenced from method nkl.a
+E/dalvikvm(11610): Could not find class 'com.google.common.flogger.backend.google.GooglePlatform', referenced from method bafn.a
+E/dalvikvm(11610): Could not find class 'com.google.common.flogger.backend.system.DefaultPlatform', referenced from method bafn.a
+E/dalvikvm(11628): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method com.mcafee.android.security.store.MMSSecureKeyStoreImpl.b
+E/dalvikvm(11628): Could not find class 'android.net.NetworkRequest$Builder', referenced from method com.mcafee.android.network.c.d
+E/dalvikvm(11628): Could not find class 'com.mcafee.android.network.c$b', referenced from method com.mcafee.android.network.c.e
+E/dalvikvm(11628): Could not find class 'android.net.NetworkRequest$Builder', referenced from method com.mcafee.android.network.c.e
+E/SELinux (11740): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux (11740): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/dalvikvm(11628): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.Schedulers.a
+E/dalvikvm(11628): Could not find class 'androidx.work.impl.constraints.trackers.NetworkStateTracker$b', referenced from method androidx.work.impl.constraints.trackers.NetworkStateTracker.<init>
+E/dalvikvm(11628): Could not find class 'com.mcafee.android.mmssuite.shp.SHPNetworkMonitor$a', referenced from method com.mcafee.android.mmssuite.shp.SHPNetworkMonitor.<init>
+E/dalvikvm(11628): Could not find class 'android.net.NetworkRequest$Builder', referenced from method com.mcafee.android.mmssuite.shp.SHPNetworkMonitor.registerReceiver
+E/SFComponent(11628): Calling teardown for SF.
+E/dalvikvm(11628): Could not find class 'android.app.usage.StorageStatsManager', referenced from method com.mcafee.cleaner.app.AppManager.n
+E/dalvikvm( 7148): Could not find class 'android.telecom.TelecomManager', referenced from method com.google.android.gms.wearable.service.WearableChimeraService.a
+E/dalvikvm(11628): Could not find class 'androidx.core.app.JobIntentService$f', referenced from method androidx.core.app.JobIntentService.onCreate
+E/FA      (11284): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/FA      (11284): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/InputDispatcher( 2279): channel '427d95d0 com.SagittariusGames.Template/com.unity3d.player.UnityPlayerActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/        (12129): Device driver API match
+E/        (12129): Device driver API version: 23
+E/        (12129): User space API version: 23 
+E/        (12129): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/rsC++   ( 2637): RS Message thread exiting.
+E/SELinux (12184): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux (12184): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/        (12203): Device driver API match
+E/        (12203): Device driver API version: 23
+E/        (12203): User space API version: 23 
+E/        (12203): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Finsky  (11433): [1] VerifyPerSourceInstallationConsentInstallTask.f(2): Package name null is not an installed package
+E/cutils-trace(12251): Error opening trace file: No such file or directory (2)
+E/dalvikvm(11433): Could not find class 'android.security.keystore.KeyGenParameterSpec$Builder', referenced from method bawo.e
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/        (12129): Device driver API match
+E/        (12129): Device driver API version: 23
+E/        (12129): User space API version: 23 
+E/        (12129): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/dalvikvm(12396): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.Schedulers.createBestAvailableBackgroundScheduler
+E/dalvikvm(12396): Could not find class 'androidx.work.impl.constraints.trackers.NetworkStateTracker$NetworkStateCallback', referenced from method androidx.work.impl.constraints.trackers.NetworkStateTracker.<init>
+E/dalvikvm(12396): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.<init>
+E/dalvikvm(12396): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.a
+E/Unity   (12396): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12396): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12396): 
+E/Unity   (12396): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12396): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12396): 
+E/Unity   (12396): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12396): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12396): 
+E/Unity   (12396): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12396): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12396): 
+E/        (12396): Device driver API match
+E/        (12396): Device driver API version: 23
+E/        (12396): User space API version: 23 
+E/        (12396): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Unity   (12396): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   (12396): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   (12396): 
+E/Unity   (12396): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   (12396): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   (12396): 
+E/rsC++   (12203): RS Message thread exiting.
+E/rsC++   ( 2637): RS Message thread exiting.
+E/dalvikvm(12396): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method com.unity3d.player.ReflectionHelper$1.a
+E/dalvikvm(12396): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm(12396): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method oo.c
+E/dalvikvm(12396): Could not find class 'android.app.NotificationChannel', referenced from method com.google.android.gms.ads.nonagon.a.b
+E/FA      (12396): Missing valid measurement identifier from string resources
+E/FA      (12396): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/FA      (12396): Uploading is not possible. App measurement disabled
+E/dalvikvm(11628): Could not find class 'android.media.AudioAttributes$Builder', referenced from method androidx.core.app.NotificationCompat$Builder.setSound
+E/dalvikvm(11628): Could not find class 'android.media.AudioAttributes$Builder', referenced from method androidx.core.app.NotificationCompat$Builder.setSound
+E/dalvikvm(11628): Could not find class 'android.app.Notification$Action$Builder', referenced from method androidx.core.app.NotificationCompat$WearableExtender.a
+E/dalvikvm(11628): Could not find class 'android.app.Notification$Action$Builder', referenced from method androidx.core.app.NotificationCompat$WearableExtender.a
+E/dalvikvm(11628): Could not find class 'android.app.Notification$Action$Builder', referenced from method androidx.core.app.b.a
+E/dalvikvm(11628): Could not find class 'android.app.Notification$Action$Builder', referenced from method androidx.core.app.b.a
+E/FA      (12396): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/FA      (12396): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/rsC++   ( 2637): RS Message thread exiting.
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/        (12549): Device driver API match
+E/        (12549): Device driver API version: 23
+E/        (12549): User space API version: 23 
+E/        (12549): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/rsC++   ( 2637): RS Message thread exiting.
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/SELinux (12757): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux (12757): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/        (12729): Device driver API match
+E/        (12729): Device driver API version: 23
+E/        (12729): User space API version: 23 
+E/        (12729): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Finsky  (11433): [1] VerifyPerSourceInstallationConsentInstallTask.f(2): Package name null is not an installed package
+E/cutils-trace(12864): Error opening trace file: No such file or directory (2)
+E/GmsClient( 7127): unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+E/dalvikvm(12941): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.Schedulers.createBestAvailableBackgroundScheduler
+E/dalvikvm(12941): Could not find class 'androidx.work.impl.constraints.trackers.NetworkStateTracker$NetworkStateCallback', referenced from method androidx.work.impl.constraints.trackers.NetworkStateTracker.<init>
+E/dalvikvm(12941): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.<init>
+E/dalvikvm(12941): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method bitter.jnibridge.JNIBridge$a.a
+E/Unity   (12941): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12941): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12941): 
+E/Unity   (12941): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12941): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12941): 
+E/Unity   (12941): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12941): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12941): 
+E/Unity   (12941): Socket: set reusable port failed, error: Protocol not available(92) 
+E/Unity   (12941): (Filename: ./Runtime/Network/Sockets.cpp Line: 415)
+E/Unity   (12941): 
+E/        (12941): Device driver API match
+E/        (12941): Device driver API version: 23
+E/        (12941): User space API version: 23 
+E/        (12941): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Unity   (12941): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   (12941): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   (12941): 
+E/Unity   (12941): [EGL] eglChooseConfig(m_EGLDisplay, configAttribs, NULL, 0, &eglConfigCount): EGL_BAD_ATTRIBUTE: An unrecognized attribute or attribute value was passed in the attribute list. 
+E/Unity   (12941): (Filename: ./Runtime/GfxDevice/egl/ConfigEGL.cpp Line: 422)
+E/Unity   (12941): 
+E/rsC++   (12549): RS Message thread exiting.
+E/rsC++   ( 2637): RS Message thread exiting.
+E/dalvikvm(12941): Could not find class 'java.lang.invoke.MethodHandles$Lookup', referenced from method com.unity3d.player.ReflectionHelper$1.a
+E/dalvikvm(12941): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm(12941): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method oo.c
+E/dalvikvm(12941): Could not find class 'android.app.NotificationChannel', referenced from method com.google.android.gms.ads.nonagon.a.b
+E/FA      (12941): Missing valid measurement identifier from string resources
+E/FA      (12941): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/FA      (12941): Uploading is not possible. App measurement disabled
+E/FA      (12941): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/FA      (12941): Missing google_app_id. Firebase Analytics disabled. See https://goo.gl/NAOOOI
+E/rsC++   ( 2637): RS Message thread exiting.
+E/        ( 2637): Device driver API match
+E/        ( 2637): Device driver API version: 23
+E/        ( 2637): User space API version: 23 
+E/        ( 2637): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/MdnsClient( 7127): Failed to leave the group.
+E/MdnsClient( 7127): java.net.SocketException: setsockopt failed: EADDRNOTAVAIL (Cannot assign requested address)
+E/MdnsClient( 7127): 	at libcore.io.IoBridge.setSocketOption(IoBridge.java:306)
+E/MdnsClient( 7127): 	at java.net.PlainDatagramSocketImpl.setOption(PlainDatagramSocketImpl.java:186)
+E/MdnsClient( 7127): 	at java.net.PlainDatagramSocketImpl.leaveGroup(PlainDatagramSocketImpl.java:146)
+E/MdnsClient( 7127): 	at java.net.MulticastSocket.leaveGroup(MulticastSocket.java:202)
+E/MdnsClient( 7127): 	at abrn.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):3)
+E/MdnsClient( 7127): 	at abro.run(Unknown Source)
+E/MdnsClient( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/MdnsClient( 7127): Caused by: libcore.io.ErrnoException: setsockopt failed: EADDRNOTAVAIL (Cannot assign requested address)
+E/MdnsClient( 7127): 	at libcore.io.Posix.setsockoptGroupReq(Native Method)
+E/MdnsClient( 7127): 	at libcore.io.ForwardingOs.setsockoptGroupReq(ForwardingOs.java:124)
+E/MdnsClient( 7127): 	at libcore.io.IoBridge.setSocketOptionErrno(IoBridge.java:375)
+E/MdnsClient( 7127): 	at libcore.io.IoBridge.setSocketOption(IoBridge.java:304)
+E/MdnsClient( 7127): 	... 6 more
+E/SELinux (13117): SELinux: Loaded file_contexts from /file_contexts
+E/SELinux (13117): SELinux:  Could not open /data/system/packages.list:  Permission denied.
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/PowerManagerService( 2279): Invalid boost duration: 0
+E/PowerManagerService( 2279): Invalid boost duration: 0
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@42295ca0.
+E/CastSocket( 7127): java.net.SocketException: Socket is closed
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:642)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):50)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 2
+E/WakeLock( 7148): GCM_CONN_ALARM ** IS FORCE-RELEASED ON TIMEOUT **
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@42464b80.
+E/CastSocket( 7127): java.net.SocketException: Socket is closed
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:642)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):50)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 2
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/ConnectivityService( 2279): net.tcp.usercfg.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_use_userconfig: open failed: ENOENT (No such file or directory)
+E/ConnectivityService( 2279): net.tcp.delack.default not found in system default properties
+E/ConnectivityService( 2279): Can't set delayed ACK size:java.io.FileNotFoundException: /sys/kernel/ipv4/tcp_delack_seg: open failed: ENOENT (No such file or directory)
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/MdnsClient( 7127): Failed to leave the group.
+E/MdnsClient( 7127): java.net.SocketException: setsockopt failed: EADDRNOTAVAIL (Cannot assign requested address)
+E/MdnsClient( 7127): 	at libcore.io.IoBridge.setSocketOption(IoBridge.java:306)
+E/MdnsClient( 7127): 	at java.net.PlainDatagramSocketImpl.setOption(PlainDatagramSocketImpl.java:186)
+E/MdnsClient( 7127): 	at java.net.PlainDatagramSocketImpl.leaveGroup(PlainDatagramSocketImpl.java:146)
+E/MdnsClient( 7127): 	at java.net.MulticastSocket.leaveGroup(MulticastSocket.java:202)
+E/MdnsClient( 7127): 	at abrn.a(:com.google.android.gms@204714003@20.47.14 (000306-349456378):3)
+E/MdnsClient( 7127): 	at abro.run(Unknown Source)
+E/MdnsClient( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/MdnsClient( 7127): Caused by: libcore.io.ErrnoException: setsockopt failed: EADDRNOTAVAIL (Cannot assign requested address)
+E/MdnsClient( 7127): 	at libcore.io.Posix.setsockoptGroupReq(Native Method)
+E/MdnsClient( 7127): 	at libcore.io.ForwardingOs.setsockoptGroupReq(ForwardingOs.java:124)
+E/MdnsClient( 7127): 	at libcore.io.IoBridge.setSocketOptionErrno(IoBridge.java:375)
+E/MdnsClient( 7127): 	at libcore.io.IoBridge.setSocketOption(IoBridge.java:304)
+E/MdnsClient( 7127): 	... 6 more
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_HB_ALARM release without a matched acquire!
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/DhcpStateMachine( 2279): DHCP failed on wlan0: Timed out waiting for DHCP to finish
+E/WifiStateMachine( 2279): Unexpected BatchedScanResults :OK
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/ConnectivityService( 2279): net.tcp.usercfg.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): net.tcp.delack.wifi not found in system properties. Using defaults
+E/ConnectivityService( 2279): Unexpected mtu value: android.net.wifi.WifiStateTracker@423eb280
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/WakeLock( 7148): GCM_CONN_ALARM release without a matched acquire!
+E/CastSocket( 7127): [TcpProberDeviceController-1] Failed to shutdown the output stream socket: kxt@42230a90.
+E/CastSocket( 7127): java.net.SocketException: Socket is closed
+E/CastSocket( 7127): 	at java.net.Socket.checkOpenAndCreate(Socket.java:642)
+E/CastSocket( 7127): 	at java.net.Socket.shutdownOutput(Socket.java:628)
+E/CastSocket( 7127): 	at kwu.l(:com.google.android.gms@204714003@20.47.14 (000306-349456378):4)
+E/CastSocket( 7127): 	at kwz.d(:com.google.android.gms@204714003@20.47.14 (000306-349456378):50)
+E/CastSocket( 7127): 	at kwy.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/CastSocket( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/TcpProberDeviceController( 7127): [TcpProberDeviceController-1] onSocketConnectionFailed. Error: 2
+E/        (13175): Device driver API match
+E/        (13175): Device driver API version: 23
+E/        (13175): User space API version: 23 
+E/        (13175): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):7)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/AsyncOperation( 7127): operation=xlb, opStatusCode=12009 [CONTEXT service_id=45 ]
+E/AsyncOperation( 7127): OperationException[Status{statusCode=unknown status code: 12009, resolution=null}]
+E/AsyncOperation( 7127): 	at aldt.g(:com.google.android.gms@204714003@20.47.14 (000306-349456378):1)
+E/AsyncOperation( 7127): 	at aldt.fE(:com.google.android.gms@204714003@20.47.14 (000306-349456378):31)
+E/AsyncOperation( 7127): 	at vqg.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):9)
+E/AsyncOperation( 7127): 	at bemo.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):2)
+E/AsyncOperation( 7127): 	at oed.c(:com.google.android.gms@204714003@20.47.14 (000306-349456378):6)
+E/AsyncOperation( 7127): 	at oed.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):8)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+E/AsyncOperation( 7127): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+E/AsyncOperation( 7127): 	at ojr.run(:com.google.android.gms@204714003@20.47.14 (000306-349456378):0)
+E/AsyncOperation( 7127): 	at java.lang.Thread.run(Thread.java:841)
+E/Cryptfs ( 1889): not running with encryption, aborting
+E/        (13648): Device driver API match
+E/        (13648): Device driver API version: 23
+E/        (13648): User space API version: 23 
+E/        (13648): mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Fri Mar 21 13:52:50 KST 2014 
+E/Cryptfs ( 1889): not running with encryption, aborting
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/UsbDebuggingManager( 2279): got -1 reading
+E/UsbDebuggingManager( 2279): Communication error: 
+E/UsbDebuggingManager( 2279): java.io.IOException: No such file or directory
+E/UsbDebuggingManager( 2279): 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+E/UsbDebuggingManager( 2279): 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:290)
+E/UsbDebuggingManager( 2279): 	at android.net.LocalSocket.connect(LocalSocket.java:130)
+E/UsbDebuggingManager( 2279): 	at com.android.server.usb.UsbDebuggingManager.listenToSocket(UsbDebuggingManager.java:75)
+E/UsbDebuggingManager( 2279): 	at com.android.server.usb.UsbDebuggingManager.run(UsbDebuggingManager.java:111)
+E/UsbDebuggingManager( 2279): 	at java.lang.Thread.run(Thread.java:841)
+E/UsbDebuggingManager( 2279): got -1 reading
+E/UsbDebuggingManager( 2279): Communication error: 
+E/UsbDebuggingManager( 2279): java.io.IOException: No such file or directory
+E/UsbDebuggingManager( 2279): 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+E/UsbDebuggingManager( 2279): 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:290)
+E/UsbDebuggingManager( 2279): 	at android.net.LocalSocket.connect(LocalSocket.java:130)
+E/UsbDebuggingManager( 2279): 	at com.android.server.usb.UsbDebuggingManager.listenToSocket(UsbDebuggingManager.java:75)
+E/UsbDebuggingManager( 2279): 	at com.android.server.usb.UsbDebuggingManager.run(UsbDebuggingManager.java:111)
+E/UsbDebuggingManager( 2279): 	at java.lang.Thread.run(Thread.java:841)
+E/cutils-trace(13756): Error opening trace file: No such file or directory (2)
+E/memtrack(13756): Couldn't load memtrack module (No such file or directory)
+E/android.os.Debug(13756): failed to load memtrack module: -2
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/inertial-anchor( 7148): Requested sensor:14 and fallback sensor: 14 are both unavailable.
+E/SQLiteCastStore( 7127): Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_0e997f96-bca8-4cbb-a817-080c0d8b7a08)
+E/DeviceScanner( 7127): [BLE] Failed to start scan because the Bluetooth is disabled.
+E/Cryptfs ( 1889): not running with encryption, aborting
+E/rsC++   ( 2637): RS Message thread exiting.
+E/dalvikvm(13847): Could not find class 'dalvik.system.DelegateLastClassLoader', referenced from method com.google.android.gms.dynamite.DynamiteModule.zza
+E/dalvikvm(13847): Could not find class 'androidx.work.impl.background.systemjob.SystemJobService', referenced from method androidx.work.impl.e.a
+E/dalvikvm(13847): Could not find class 'tt.r8$b', referenced from method tt.r8.<init>
+E/dalvikvm(13847): Could not find class 'android.app.NotificationChannel', referenced from method com.ttxapps.autosync.app.n.c
+E/dalvikvm(13847): Could not find class 'android.app.usage.UsageStatsManager', referenced from method com.ttxapps.autosync.util.s.a
+E/dalvikvm(13847): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm(13847): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm(13847): Could not find class 'com.evernote.android.job.v21.PlatformJobService', referenced from method com.evernote.android.job.JobApi.i
+E/dalvikvm(13847): Could not find class 'androidx.core.app.p', referenced from method androidx.core.app.o.onCreate
+E/dalvikvm(13847): Could not find class 'androidx.core.app.g$f', referenced from method androidx.core.app.g.onCreate
+E/dalvikvm(13847): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.isConscrypt
+E/dalvikvm(13847): Could not find class 'com.google.android.gms.org.conscrypt.TrustManagerImpl', referenced from method com.google.android.gms.org.conscrypt.Conscrypt.toConscrypt
+E/dalvikvm(13847): Could not find class 'javax.net.ssl.SNIServerName', referenced from method com.google.android.gms.org.conscrypt.Platform.getSniHostnameFromParams
+E/dalvikvm(13847): Could not find class 'javax.net.ssl.SNIMatcher', referenced from method com.google.android.gms.org.conscrypt.Platform.serverNamePermittedInternal
+E/dalvikvm(13847): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
+E/dalvikvm(13847): Could not find class 'javax.net.ssl.SNIHostName', referenced from method com.google.android.gms.org.conscrypt.Platform.setParametersSniHostname
